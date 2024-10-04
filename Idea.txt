@@ -1,0 +1,20 @@
+Extract:
+
+recording studio features:
+BPM
+complete and in low-/mid-/high-frequency range
+RMS
+Peak
+Crest Factor
+Phase Scope
+Channel Correlation
+
+psychoacoustic features:
+roughness
+sharpness
+tonalness
+spaciousness
+
+From US- and German Techno until 1994:
+
+Do they cluster? Do they develop differently? Does Germany speed up, does the variability increase, is there a loudness war?
